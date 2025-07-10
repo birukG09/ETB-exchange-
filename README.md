@@ -1,3 +1,4 @@
+![image alt](https://github.com/birukG09/ETB-exchange-/blob/00befad56b40c66dc1f1157ab7a87d69b7086a11/FireShot%20Capture%20009%20-%20Hello%20world%20project%20-%20%5Blocalhost%5D.png)
 # 💹 ETB Exchange — Real-Time Financial Portfolio, Crypto, Stock & Currency Intelligence Platform
 
 **ETB Exchange** is a modern full-stack web application that delivers **real-time financial analytics**, including cryptocurrency, stock, and currency data. It also provides features for managing **investment portfolios**, visualizing **trading signals**, and staying updated with global **economic news** — all through rich, interactive charts and dashboards.
