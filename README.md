@@ -11,7 +11,7 @@
 - Create and manage **personalized investment portfolios**
 - Add assets from **crypto, stocks, and forex markets**
 - Calculate **real-time profit/loss** and **ROI**
-- View **portfolio distribution** via pie and bar charts
+- View *portfolio distribution** via pie and bar charts
 - Import/export portfolios via **CSV/Excel/API**
 
 ### 📈 Market Data & Trading Tools
